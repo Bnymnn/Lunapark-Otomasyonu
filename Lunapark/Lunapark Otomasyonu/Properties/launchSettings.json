@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Lunapark Otomasyonu": {
+      "commandName": "Project",
+      "sqlDebugging": true,
+      "nativeDebugging": true
+    }
+  }
+}

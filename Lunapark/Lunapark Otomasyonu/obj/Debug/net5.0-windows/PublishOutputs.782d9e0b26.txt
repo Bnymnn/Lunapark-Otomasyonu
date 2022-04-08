@@ -1,0 +1,11 @@
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\Lunapark Otomasyonu.exe
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\Lunapark Otomasyonu.dll
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\Lunapark Otomasyonu.deps.json
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\Lunapark Otomasyonu.runtimeconfig.json
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\Lunapark Otomasyonu.pdb
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\System.Data.SqlClient.dll
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\runtimes\win-arm64\native\sni.dll
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\runtimes\win-x64\native\sni.dll
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\runtimes\win-x86\native\sni.dll
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\YâMen\Desktop\Lunapar Otomasyonu Bünyamin Akmeşe 205541048\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

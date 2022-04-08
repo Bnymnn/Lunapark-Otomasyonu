@@ -1,0 +1,52 @@
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\Lunapark Otomasyonu.exe
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\Lunapark Otomasyonu.deps.json
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\Lunapark Otomasyonu.runtimeconfig.json
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\Lunapark Otomasyonu.runtimeconfig.dev.json
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\Lunapark Otomasyonu.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\ref\Lunapark Otomasyonu.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\Lunapark Otomasyonu.pdb
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.csproj.AssemblyReference.cache
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.Giriş.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.onerisikayet.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.oyuncakcikar.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.oyuncakduzenle.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.personel.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.personelekle.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.yetkiligiris.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.yoneticiarayuz.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.yoneticimail.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.csproj.GenerateResource.cache
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.AssemblyInfoInputs.cache
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.AssemblyInfo.cs
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\ref\Lunapark Otomasyonu.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.pdb
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.genruntimeconfig.cache
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.oyuncakekle.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.sifremiunuttum.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.biletgoruntule.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyearayuz.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyebakiyeduzenle.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyeekle.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyegiris.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyesifredegis.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyesifremiunuttum.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.yoneticigris.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.Properties.Resources.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.yetkilisifredegis.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.yoneticisifremiunuttum.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.yöneticisifredegis.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyecıkar.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyebiletal.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.Üye_Şifremi_Değiştir.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyeıcınbıletgoruntuleme.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark_Otomasyonu.uyeguncelleme.resources
+C:\Users\YâMen\source\repos\Lunapark Otomasyonu\Lunapark Otomasyonu\obj\Debug\net5.0-windows\Lunapark Otomasyonu.csproj.CopyComplete

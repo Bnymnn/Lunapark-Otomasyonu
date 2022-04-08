@@ -1,0 +1,11 @@
+C:\Users\YâMen\Desktop\Ödev\Lunapark Otomasyonu.exe
+C:\Users\YâMen\Desktop\Ödev\Lunapark Otomasyonu.dll
+C:\Users\YâMen\Desktop\Ödev\Lunapark Otomasyonu.deps.json
+C:\Users\YâMen\Desktop\Ödev\Lunapark Otomasyonu.runtimeconfig.json
+C:\Users\YâMen\Desktop\Ödev\Lunapark Otomasyonu.pdb
+C:\Users\YâMen\Desktop\Ödev\System.Data.SqlClient.dll
+C:\Users\YâMen\Desktop\Ödev\runtimes\win-arm64\native\sni.dll
+C:\Users\YâMen\Desktop\Ödev\runtimes\win-x64\native\sni.dll
+C:\Users\YâMen\Desktop\Ödev\runtimes\win-x86\native\sni.dll
+C:\Users\YâMen\Desktop\Ödev\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\YâMen\Desktop\Ödev\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
